@@ -1,7 +1,7 @@
 .form {
     margin: 0 auto;
     width: 320px;
-    color: #f9eded
+    color: #ffffff
 }
     
 .label {
@@ -13,5 +13,5 @@
 .button {
     display: flex;
     justify-content: center;
-    color: #6dfafc;
+    color: #000000;
 }

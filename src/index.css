@@ -2,7 +2,7 @@ body {
   font-family: sans-serif;
   font-size: 20px;
   line-height: 1.5;
-  background-color: #295770;
+  background-color: #01a6ff;
 }
 
 h1,
@@ -39,7 +39,7 @@ button {
   transition: border-color 0.25s;
 }
 button:hover {
-  border-color: #646cff;
+  border-color: #000000;
 }
 button:focus,
 button:focus-visible {
