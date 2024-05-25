@@ -1,0 +1,11 @@
+.wrapper {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    color: #67f4f9;
+}

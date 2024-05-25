@@ -1,0 +1,30 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 10px;
+    border: 2px solid #000000;
+    border-radius: 6px;
+    margin-bottom: 30px;
+}
+
+.group {
+    display: flex;
+    flex-direction: column;
+}
+
+.input {
+    padding: 4px;
+}
+
+.button {
+    padding: 3px 6px;
+    margin: 0 auto;
+    border-radius: 3px;
+}
+
+.error {
+    color: #fb3636;
+}

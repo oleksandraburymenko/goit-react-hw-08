@@ -1,0 +1,16 @@
+.btn {
+    margin-right: 10px;
+    min-width: 100px;
+    text-transform: uppercase;
+    padding: 10px;
+    font-size: 12px;
+    background-color: white;
+    color: black;
+    border: black 2px solid;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.btn:hover {
+    background-color: yellow;
+}
